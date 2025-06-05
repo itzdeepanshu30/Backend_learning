@@ -1,0 +1,24 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for differnt tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "Deepanshu Singhal",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
